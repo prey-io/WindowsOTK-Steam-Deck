@@ -6,7 +6,8 @@ After trying to find a work around I found no answers and decided to make a work
 
 This tutorial will teach you how to change the on-screen-keyboard brought up by pressing the "steam" + "x" buttons
 
-### NEW FEATURES
+## NEW FEATURES
+
 -Added "steam" + "Y" which will press f11, This can help with getting some apps in and out of fullscreen mode.
 
 -Added "steam" + "A" which will press Alt + f4, as steams "exit application" does not work in some cases.
