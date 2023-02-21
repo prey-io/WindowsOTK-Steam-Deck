@@ -1,6 +1,6 @@
 # Welcome to WindowsOTK-Steam-Deck
 
-A big problem I had when using Windows on the steam deck was the steamOS on-screen-keyboard (OSK) as this keyboard can be covered by windows start menu and some other programs. Steam does not allow you to change guide button chord config (It allows you to change but it doesn't save)
+A big problem I had when using Windows on the Steam Deck was the steamOS on-screen-keyboard (OSK) as this keyboard can be covered by windows start menu and some other programs. Steam does not allow you to change guide button chord config (It allows you to change but it doesn't save)
 
 After trying to find a work around I found no answers and decided to make a work around myself and show you how to use it.
 
@@ -36,11 +36,13 @@ Type "Steam" in Windows Search and "Open file location", This should bring you t
 Now to boot steam on launch,
 Press Windows + R to open "Run" and type 
 
-"shell:startup" for steam to start **only** on your **current user**
-"shell:common startup" for steam to start on **all users**
+`shell:startup` for steam to start **only** on your **current user**
+
+`shell:common startup` for steam to start on **all users**
 
 Copy the shortcut you just made in the Start Menu folder into this folder and there you go!
 
 You can now Re-Launch steam and pressing "steam" + "x" on your deck should open windows touch keyboard instead of steams keyboard.
 
-_Note: If your Steam Keyboard still appears sometimes, it is part of your desktop configuration which can be changed with no tweaks_
+
+_Note: If your Steam Keyboard still appears sometimes, it is part of your desktop controller configuration which can be changed easily with no tweaks_
