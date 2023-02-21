@@ -1,6 +1,6 @@
 # Welcome to WindowsOTK-Steam-Deck
 
-A big problem I had when using Windows on the steam deck was the steamOS on-screen-keyboard (OSK) as this keyboard can be covered by windows start menu and some other programs. Steam does not allow you to change guide button chord config (It allows you to change but it doesn't save)
+A big problem I had when using Windows on the Steam Deck was the steamOS on-screen-keyboard (OSK) as this keyboard can be covered by windows start menu and some other programs. Steam does not allow you to change guide button chord config (It allows you to change but it doesn't save)
 
 After trying to find a work around I found no answers and decided to make a work around myself and show you how to use it.
 
