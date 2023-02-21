@@ -1,7 +1,7 @@
 "controller_mappings"
 {
 	"version"		"3"
-	"revision"		"40"
+	"revision"		"46"
 	"title"		"prey - Windows OSK"
 	"description"		"#SettingsController_AutosaveDescription"
 	"creator"		"76561197963636667"
@@ -67,6 +67,22 @@
 							"binding"		"key_press LEFT_WINDOWS, , "
 							"binding"		"key_press LEFT_CONTROL, , "
 							"binding"		"key_press O, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_y"
+			{
+				"activators"
+				{
+					"release"
+					{
+						"bindings"
+						{
+							"binding"		"key_press F11, , "
 						}
 					}
 				}
@@ -329,6 +345,23 @@
 		"description"		""
 		"inputs"
 		{
+			"button_escape"
+			{
+				"activators"
+				{
+					"release"
+					{
+						"bindings"
+						{
+							"binding"		"key_press LEFT_WINDOWS, , "
+							"binding"		"key_press D, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
 			"left_bumper"
 			{
 				"activators"
