@@ -1,8 +1,8 @@
 "controller_mappings"
 {
 	"version"		"3"
-	"revision"		"46"
-	"title"		"prey - Windows OSK"
+	"revision"		"50"
+	"title"		"prey - Steam Chord Overhaul"
 	"description"		"#SettingsController_AutosaveDescription"
 	"creator"		"76561197963636667"
 	"progenitor"		"workshop://2936769950"
@@ -29,6 +29,23 @@
 		"description"		""
 		"inputs"
 		{
+			"button_a"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press LEFT_ALT, , "
+							"binding"		"key_press F4, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
 			"button_b"
 			{
 				"activators"
@@ -64,8 +81,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_WINDOWS, , "
 							"binding"		"key_press LEFT_CONTROL, , "
+							"binding"		"key_press LEFT_WINDOWS, , "
 							"binding"		"key_press O, , "
 						}
 					}
@@ -78,7 +95,7 @@
 			{
 				"activators"
 				{
-					"release"
+					"Full_Press"
 					{
 						"bindings"
 						{

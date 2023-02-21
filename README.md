@@ -6,7 +6,12 @@ After trying to find a work around I found no answers and decided to make a work
 
 This tutorial will teach you how to change the on-screen-keyboard brought up by pressing the "steam" + "x" buttons
 
-## Using my custom config
+### NEW FEATURES
+-Added "steam" + "Y" which will press f11, This can help with getting some apps in and out of fullscreen mode.
+-Added "steam" + "A" which will press Alt + f4, as steams "exit application" does not work in some cases.
+-Added "steam" + "menu" (pause button) which will press Windows + D. an easy way to access Desktop if you are stuck in an app for any reason.
+
+## Using custom config
 
 ### Step 1
 First I would recommend changing your OSK to the touch keyboard, you can find a quick guide (and guides to many other tweaks for Steam Deck Windows) over at [baldsealion's Steamdeck Ultimate Windows11 Guide](https://github.com/baldsealion/Steamdeck-Ultimate-Windows11-Guide/wiki/1.2-Windows-OS-Tweaks#replace-on-screen-keyboard-with-touch-keyboard)
