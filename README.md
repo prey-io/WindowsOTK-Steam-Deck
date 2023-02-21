@@ -8,7 +8,9 @@ This tutorial will teach you how to change the on-screen-keyboard brought up by 
 
 ### NEW FEATURES
 -Added "steam" + "Y" which will press f11, This can help with getting some apps in and out of fullscreen mode.
+
 -Added "steam" + "A" which will press Alt + f4, as steams "exit application" does not work in some cases.
+
 -Added "steam" + "menu" (pause button) which will press Windows + D. an easy way to access Desktop if you are stuck in an app for any reason.
 
 ## Using custom config
