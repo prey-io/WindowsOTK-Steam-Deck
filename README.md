@@ -45,4 +45,4 @@ Copy the shortcut you just made in the Start Menu folder into this folder and th
 You can now Re-Launch steam and pressing "steam" + "x" on your deck should open windows touch keyboard instead of steams keyboard.
 
 
-_Note: If your Steam Keyboard still appears sometimes, it is part of your desktop configuration which can be changed easily with no tweaks_
+_Note: If your Steam Keyboard still appears sometimes, it is part of your desktop controller configuration which can be changed easily with no tweaks_
