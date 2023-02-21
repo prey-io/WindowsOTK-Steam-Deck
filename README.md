@@ -37,6 +37,7 @@ Now to boot steam on launch,
 Press Windows + R to open "Run" and type 
 
 `shell:startup` for steam to start **only** on your **current user**
+
 `shell:common startup` for steam to start on **all users**
 
 Copy the shortcut you just made in the Start Menu folder into this folder and there you go!
